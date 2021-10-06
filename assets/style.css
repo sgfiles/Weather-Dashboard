@@ -1,0 +1,36 @@
+
+body {
+
+    justify-content:center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: rgb(136, 174, 245);
+    color: black;
+    font-family:  'Open Sans', sans-serif;
+    font-size: larger;
+}
+h1 {
+    background-color: blue;
+    text-align: center;
+    color: white;
+}
+h2 {
+    font-family: inherit;
+    font-weight: bold;
+}
+
+button {
+    margin: 1.5em;
+    height: 2em;
+    border-radius: 11px;
+    width: 12.5em;
+}
+button:hover {
+    background: rgb(136, 155, 190);
+}
+input.search-bar {
+   
+     background:white;
+    color: black;
+}
